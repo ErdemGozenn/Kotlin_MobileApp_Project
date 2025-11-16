@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sahibinden</string>
+    <string name="enter_money">Paranızı girin</string>
+    <string name="start_button">Başlat</string>
+    <string name="select_mood">Ruh halinizi seçin</string>
+    <string name="buy">Satın Al</string>
+    <string name="show_result2">Sonucu Göster</string>
+    <string name="dialog_title">Satın alım özeti</string>
+    <string name="dialog_message">Satın almayı onaylıyor musunuz?</string>
+    <string name="adjust_brigthness">Parlaklıgı Ayarlayın</string>
+    <string name="txt_show_money">Hadi senin parana uygun ev bulalım : </string>
+    <string name="btnLanguage">EN</string>
+    <string name="toast_language_changed">Dil başarıyla değiştirildi.</string>
+    <string name="empty_cart">Sepetiniz Boş!</string>
+    <string name="back_to_main">Ana Sayfaya Dön</string>
+    <string name="back_message">SecondActivity ekranından başarıyla dönüldü!</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="list">Liste</string>
+    <string name="cart">Sepet</string>
+    <string name="done">Bitti!</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Uygulama genel renkleri -->
+    <color name="softBlue">#4A90E2</color>
+    <color name="darkGray">#2E2E2E</color>
+    <color name="happyYellow">#FFD54F</color>
+    <color name="sadBlue">#64B5F6</color>
+    <color name="calmGreen">#81C784</color>
+    <color name="angryRed">#E57373</color>
+    <color name="white">#ffffff</color>
+</resources>

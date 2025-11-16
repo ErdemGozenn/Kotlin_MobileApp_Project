@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="city_names">
+        <item>Ankara</item>
+        <item>Istanbul</item>
+        <item>Izmir</item>
+        <item>Adana</item>
+    </string-array>
+
+
+    <string-array name="city_costs">
+        <item>5700000.0</item>
+        <item>8250000.0</item>
+        <item>4800000.0</item>
+        <item>3100000.0</item>
+    </string-array>
+</resources>
