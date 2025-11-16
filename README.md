@@ -33,11 +33,11 @@ You can see the main screens of the project below.
 
 | Login Screen | Home Page (List) |
 | :---: | :---: |
-| ![Login Screen](screenshots/login.png) | ![Home Page](screenshots/main.png) |
+| ![Login Screen](screenshots/Screenshot%2025-11-16%20at%2017.49.53.png) | ![Home Page](screenshots/Screenshot%2025-11-16%20at%2017.50.25.jpg) |
 
 | Purchase Confirmation | Cart (Full) | Cart (Empty) |
 | :---: | :---: | :---: |
-| ![Purchase Confirmation](screenshots/enter.jpg) | ![Full Cart](screenshots/cart.png) | ![Empty Cart](screenshots/empty.png) |
+| ![Purchase Confirmation](screenshots/Screenshot%2025-11-16%20at%2017.50.41.jpg) | ![Full Cart](screenshots/Screenshot%2025-11-16%20at%2017.51.59.png) | ![Empty Cart](screenshots/Screenshot%2025-11-16%20at%2017.50.32.png) |
 
 ---
 
@@ -52,3 +52,5 @@ To run this project on your local machine, follow these steps:
 2.  Open the project in Android Studio.
 3.  Wait for the necessary SDK and dependencies to be downloaded.
 4.  Run the application on an emulator or a physical Android device (`Run 'app'`).
+# Sahibinden_Mobile_App
+# Sahibinden_Mobile_App
