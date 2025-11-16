@@ -31,13 +31,13 @@ This project is a simple e-commerce (housing sales) application developed for th
 
 You can see the main screens of the project below.
 
-| Start Screen | MainPage (List) |
+| Login Screen | Home Page (List) |
 | :---: | :---: |
-| [Start Screen](screenshots/Screenshot%202025-11-16%20at%2017.49.53.png) | [MainPage](screenshots/Screenshot%202025-11-16%20at%2017.50.25.png) |
+| ![Start Screen](screenshots/Screenshot%202025-11-16%20at%2017.49.53.png) | ![MainPage](screenshots/Screenshot%202025-11-16%20at%2017.50.25.png) |
 
 | Purchase Confirmation | Cart (Full) | Cart (Empty) |
 | :---: | :---: | :---: |
-| [Purchase Confirmation](screenshots/Screenshot%202025-11-16%20at%2017.50.41.png) | [Full Cart](screenshots/Screenshot%202025-11-16%20at%2017.51.59.png) | [Empty Cart](screenshots/Screenshot%202025-11-16%20at%2017.50.32.png) |
+| ![Purchase Confirmation](screenshots/Screenshot%202025-11-16%20at%2017.50.41.png) | ![Full Cart](screenshots/Screenshot%202025-11-16%20at%2017.51.59.png) | ![Empty Cart](screenshots/Screenshot%202025-11-16%20at%2017.50.32.png) |
 
 ---
 
