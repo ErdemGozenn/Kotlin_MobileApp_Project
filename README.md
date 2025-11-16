@@ -33,11 +33,11 @@ You can see the main screens of the project below.
 
 | Login Screen | Home Page (List) |
 | :---: | :---: |
-| ![Login Screen](screenshots/Screenshot%2025-11-16%20at%2017.49.53.png) | ![Home Page](screenshots/Screenshot%2025-11-16%20at%2017.50.25.jpg) |
+| ![Login Screen](screenshots/Screenshot%202025-11-16%20at%2017.49.53.png) | ![Home Page](screenshots/Screenshot%202025-11-16%20at%2017.50.25.jpg) |
 
 | Purchase Confirmation | Cart (Full) | Cart (Empty) |
 | :---: | :---: | :---: |
-| ![Purchase Confirmation](screenshots/Screenshot%2025-11-16%20at%2017.50.41.jpg) | ![Full Cart](screenshots/Screenshot%2025-11-16%20at%2017.51.59.png) | ![Empty Cart](screenshots/Screenshot%2025-11-16%20at%2017.50.32.png) |
+| ![Purchase Confirmation](screenshots/Screenshot%202025-11-16%20at%2017.50.41.jpg) | ![Full Cart](screenshots/Screenshot%202025-11-16%20at%2017.51.59.png) | ![Empty Cart](screenshots/Screenshot%202025-11-16%20at%2017.50.32.png) |
 
 ---
 
