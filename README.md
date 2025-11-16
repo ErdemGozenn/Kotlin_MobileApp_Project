@@ -33,7 +33,7 @@ You can see the main screens of the project below.
 
 | Login Screen | Home Page (List) |
 | :---: | :---: |
-| ![Login Screen](screenshots/Screenshot%202025-11-16%20at%2017.49.53.png) | ![Home Page](screenshots/Screenshot%202025-11-16%20at%2017.50.25.jpg) |
+| ![Start Screen](screenshots/Screenshot%202025-11-16%20at%2017.49.53.png) | ![MainPage](screenshots/Screenshot%202025-11-16%20at%2017.50.25.jpg) |
 
 | Purchase Confirmation | Cart (Full) | Cart (Empty) |
 | :---: | :---: | :---: |
